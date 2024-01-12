@@ -28,7 +28,7 @@
 Зайдите в настройки каждого хоста и в разделе Templates прикрепите к этому хосту ваш шаблон  
 Так же к каждому хосту привяжите шаблон Linux by Zabbix Agent  
 Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона  
-![zabb2 2](https://github.com/neo-13th/Zabbix-part2/assets/150372172/bc34df74-a239-4120-a83d-f605dd70fb82)  
+![zabb2 2 2](https://github.com/neo-13th/Zabbix-part2/assets/150372172/53ef430e-1479-47a5-a3aa-61eba4814bc7)  
 ![zabb2 3](https://github.com/neo-13th/Zabbix-part2/assets/150372172/e1632410-23cc-4657-b1f8-dd94facdf38d)  
 ## Задание 4  
 Создайте свой кастомный дашборд.  
